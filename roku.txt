@@ -1,4 +1,7 @@
 # Blocks Roku Ads among other things
+ads-v-darwin.hulustream.com
+http-a-darwin.hulustream.com
+t2.hulu.com
 doubleclick.com
 doubleclick.net
 googleadservices.com
