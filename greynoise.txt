@@ -2,3 +2,6 @@ broadband.corbina.ru
 hdpng2.gob.ec
 nwmnsa.com
 genericrev.cantv.net
+host353905.mpdedicated.com
+host-156.222.230.221-static.tedata.net
+3wai.l.serverhost.name
