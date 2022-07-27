@@ -5,3 +5,4 @@ genericrev.cantv.net
 host353905.mpdedicated.com
 host-156.222.230.221-static.tedata.net
 3wai.l.serverhost.name
+dogweb.ru
